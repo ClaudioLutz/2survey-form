@@ -1,0 +1,46 @@
+html{
+    margin: 0;
+    padding:0;    
+}
+body{
+    background: green;
+
+}
+#title{
+    width: 40%;
+    margin: 0 auto;    
+    padding-bottom: 10px;
+}
+#description{
+    margin: 0 auto;
+    width: 40%;
+}
+
+.left-description{
+    display: inline-block;
+    text-align: right;
+    vertical-align: bottom;
+    margin-top: 10px;
+    width: 50px;
+}
+.rightTab{
+    display: inline-block;
+    text-align: left;
+    width: 20%;
+    vertical-align: middle;
+}
+.coordinates{
+    padding-bottom: 20px;
+    width: 50%;
+    margin: 0 auto;
+}
+#outer-form{
+    margin: 0 auto;
+    background: beige;
+    margin: 0 auto;
+    border-radius: 4px;
+    width: 75%;
+    max-width: 900px;
+    padding: 10px;
+    padding-top: 20px
+}
